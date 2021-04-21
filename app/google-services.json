@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "275671786796",
+    "firebase_url": "https://forsale-603eb-default-rtdb.firebaseio.com",
+    "project_id": "forsale-603eb",
+    "storage_bucket": "forsale-603eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275671786796:android:7bfbf25ee8b09daacf7889",
+        "android_client_info": {
+          "package_name": "com.elmagd.soppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275671786796-cgc6qgis5m0cpbhnbfsdooj2p975ifru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elmagd.soppinglist",
+            "certificate_hash": "620c2c8b554002f19947ab58132a961406316f83"
+          }
+        },
+        {
+          "client_id": "275671786796-6m2otmhdqsvj5815d5i5dhnbgv56pihd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvQ-EelLZc9tUUJrnXCIGoGcbDMkjbjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275671786796-6m2otmhdqsvj5815d5i5dhnbgv56pihd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275671786796:android:3a847aa637be2865cf7889",
+        "android_client_info": {
+          "package_name": "com.magednan.forsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275671786796-6m2otmhdqsvj5815d5i5dhnbgv56pihd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvQ-EelLZc9tUUJrnXCIGoGcbDMkjbjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275671786796-6m2otmhdqsvj5815d5i5dhnbgv56pihd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275671786796:android:51e3035a40241dd9cf7889",
+        "android_client_info": {
+          "package_name": "com.megednan.forsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275671786796-6m2otmhdqsvj5815d5i5dhnbgv56pihd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvQ-EelLZc9tUUJrnXCIGoGcbDMkjbjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275671786796-6m2otmhdqsvj5815d5i5dhnbgv56pihd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

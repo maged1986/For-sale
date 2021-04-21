@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+    </data>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.frags.CategoryAdsFragment">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/category_ads_Frag_rv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:id="@+id/error_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/_10sdp"
+            android:visibility="gone"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/error_layout_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/error_layout_tv_category"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display2" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_baseline_error_24"
+                tools:srcCompat="@drawable/ic_baseline_error_24"
+                tools:ignore="VectorDrawableCompat" />
+
+            <Button
+                android:id="@+id/error_btn_createAd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/error_btn_createAd" />
+
+            <Button
+                android:id="@+id/error_btn_allAds"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/error_btn_allAds" />
+        </LinearLayout>
+
+    </FrameLayout>
+</layout>

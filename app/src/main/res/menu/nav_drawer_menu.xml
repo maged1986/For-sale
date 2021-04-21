@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/categoriesFragment"
+        android:title="categoriesFragment" />
+    <item
+        android:id="@+id/createAdFragment"
+        android:title="createAdFragment" />
+    <item
+        android:id="@+id/allAdsFragment"
+        android:title="allAdsFragment" />
+    <item
+        android:id="@+id/myAdsFragment"
+        android:title="myAdsFragment" />
+</menu>
